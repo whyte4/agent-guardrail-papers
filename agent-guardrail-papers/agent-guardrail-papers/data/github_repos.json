@@ -1,0 +1,2002 @@
+[
+  {
+    "full_name": "pipelab-org/pipelock",
+    "url": "https://github.com/pipelab-org/pipelock",
+    "description": "Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent.",
+    "stars": 1002,
+    "language": "Go",
+    "updated": "2026-11-18",
+    "topics": [
+      "agent-security",
+      "ai-agent-security",
+      "ai-agents",
+      "ai-firewall",
+      "ai-security"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "AI45Lab/AgentDoG",
+    "url": "https://github.com/AI45Lab/AgentDoG",
+    "description": "A Diagnostic Guardrail Framework for AI Agent Safety and Security",
+    "stars": 710,
+    "language": "Python",
+    "updated": "2026-06-08",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "DavidCarliez/trustmebro",
+    "url": "https://github.com/DavidCarliez/trustmebro",
+    "description": "Bypass llm guardrails by confusing it with fabricated tool output.",
+    "stars": 607,
+    "language": "Go",
+    "updated": "2026-09-01",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "openguardrails/openguardrails",
+    "url": "https://github.com/openguardrails/openguardrails",
+    "description": "AI agent guardrails for every builder. Local rules, a sandbox and a firewall for your agents, open source.",
+    "stars": 371,
+    "language": "Go",
+    "updated": "2026-11-18",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "AI45Lab/TrinityGuard",
+    "url": "https://github.com/AI45Lab/TrinityGuard",
+    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent Systems",
+    "stars": 221,
+    "language": "Python",
+    "updated": "2026-06-25",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "Graph-COM/CKA-Agent",
+    "url": "https://github.com/Graph-COM/CKA-Agent",
+    "description": "[ICML 2026 & ICLR 2026 AIWILD] Official Implementation of the CKA-Agent, \"The Trojan Knowledge: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search\".",
+    "stars": 217,
+    "language": "Python",
+    "updated": "2026-05-20",
+    "topics": [
+      "icml-2026",
+      "jailbreak",
+      "llms",
+      "red-teaming",
+      "safety"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "luyi14-bits/jig",
+    "url": "https://github.com/luyi14-bits/jig",
+    "description": "Jig — The first pre-execution Agent Firewall. Intercept before they act.",
+    "stars": 170,
+    "language": "Python",
+    "updated": "2026-09-17",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "SantanderAI/autoguardrails",
+    "url": "https://github.com/SantanderAI/autoguardrails",
+    "description": "Alignment-research scaffold (autoresearch-style) for LLM guardrails: search over a single policy.md surface",
+    "stars": 129,
+    "language": "Python",
+    "updated": "2026-10-01",
+    "topics": [
+      "ai",
+      "ai-safety",
+      "alignment",
+      "autoresearch",
+      "benchmark"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "LuD1161/agentjail",
+    "url": "https://github.com/LuD1161/agentjail",
+    "description": "Policy guardrails for coding agents (Claude Code, Codex, Cursor) — every tool call is checked locally, before it runs.",
+    "stars": 104,
+    "language": "Go",
+    "updated": "2026-09-24",
+    "topics": [
+      "agent-security",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "rulebricks/claude-code-guardrails",
+    "url": "https://github.com/rulebricks/claude-code-guardrails",
+    "description": "Real-time guardrails for Claude Code tool calls.",
+    "stars": 79,
+    "language": "Python",
+    "updated": "2026-02-04",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "glo26/stepshield",
+    "url": "https://github.com/glo26/stepshield",
+    "description": "StepShield: When, Not Whether to Intervene on Rogue Agents — NeurIPS 2026 benchmark for temporal evaluation of AI agent guardrails (9,429 trajectories, step-level annotations)",
+    "stars": 78,
+    "language": "Python",
+    "updated": "2026-11-16",
+    "topics": [
+      "agent-security",
+      "ai-safety",
+      "benchmark",
+      "dataset",
+      "guardrails"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "fastino-ai/GLiGuard",
+    "url": "https://github.com/fastino-ai/GLiGuard",
+    "description": "Fastino's LLM guardrail",
+    "stars": 68,
+    "language": "",
+    "updated": "2026-05-12",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "killertcell428/aigis",
+    "url": "https://github.com/killertcell428/aigis",
+    "description": "Get Claude Code and other AI agents approved for use at work — deterministic guardrails on every tool call, tamper-evident audit logs, and a generated IT-approval pack. Zero-dependency Python OSS.",
+    "stars": 53,
+    "language": "Python",
+    "updated": "2026-11-14",
+    "topics": [
+      "ai-agent",
+      "ai-security",
+      "audit-log",
+      "claude-code",
+      "compliance"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "FareedKhan-dev/agentic-guardrails",
+    "url": "https://github.com/FareedKhan-dev/agentic-guardrails",
+    "description": "Layered guardrails to make agentic AI safer and more reliable.",
+    "stars": 51,
+    "language": "Jupyter Notebook",
+    "updated": "2025-10-05",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "guardrails",
+      "langchain",
+      "python"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "SaFo-Lab/AGrail4Agent",
+    "url": "https://github.com/SaFo-Lab/AGrail4Agent",
+    "description": "[ACL 2025] The official code for \"AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection\".",
+    "stars": 47,
+    "language": "Python",
+    "updated": "2026-08-12",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "darfaz/clawmoat",
+    "url": "https://github.com/darfaz/clawmoat",
+    "description": "The open-source agent firewall. Prevent AI agents from leaking data, using dangerous tools, and importing poisoned dependencies.",
+    "stars": 45,
+    "language": "JavaScript",
+    "updated": "2026-08-17",
+    "topics": [
+      "agent-security",
+      "ai-security",
+      "autogen",
+      "crewai",
+      "cybersecurity"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "MaxMLang/pytector",
+    "url": "https://github.com/MaxMLang/pytector",
+    "description": "Easy to use LLM Prompt Injection Detection and Prompt Input Sanitization / Detector Python Package with support for local models, API-based safeguards, safeguard for tool calls, and LangChain guardrails.",
+    "stars": 45,
+    "language": "Python",
+    "updated": "2026-08-10",
+    "topics": [
+      "ai-safety",
+      "content-moderation",
+      "groq",
+      "groq-api",
+      "guardrails"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "mayankjain0141/nixis",
+    "url": "https://github.com/mayankjain0141/nixis",
+    "description": "AI agent firewall that intercepts tool calls (file, shell, network) and enforces deterministic policies at sub-microsecond latency using CEL, IFC, secret scanning, and audit logging.",
+    "stars": 40,
+    "language": "Go",
+    "updated": "2026-09-02",
+    "topics": [
+      "ai-agents",
+      "ai-firewall",
+      "ai-security",
+      "cel",
+      "claude-ai"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "scs0209/laya-guard",
+    "url": "https://github.com/scs0209/laya-guard",
+    "description": "Free local guardrail for AI coding agents: every tool_call judged on-device (regex + Laya), allow/review/block",
+    "stars": 40,
+    "language": "Python",
+    "updated": "2026-11-16",
+    "topics": [
+      "ai-agents",
+      "ai-safety",
+      "claude-code",
+      "coding-assistant",
+      "fastapi"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "tjcrims0nx/OpenMind-Jailbreak-Lab",
+    "url": "https://github.com/tjcrims0nx/OpenMind-Jailbreak-Lab",
+    "description": "Open-source AI security research lab for reproducible adversarial testing, jailbreak resistance evaluation, and LLM guardrail validation across multiple model providers.",
+    "stars": 39,
+    "language": "Python",
+    "updated": "2026-11-18",
+    "topics": [
+      "ai-safety",
+      "ai-security",
+      "anthropic",
+      "benchmark",
+      "gemini-api"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "unalome-ai/unalome-firewall",
+    "url": "https://github.com/unalome-ai/unalome-firewall",
+    "description": "Unalome Agent Firewall is a free, open-source desktop app that gives you complete visibility into what your AI agents are doing on your machine — in plain language anyone can understand.",
+    "stars": 35,
+    "language": "Rust",
+    "updated": "2026-03-28",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "openclaw"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "yihedeng9/DuoGuard",
+    "url": "https://github.com/yihedeng9/DuoGuard",
+    "description": "DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM Guardrails",
+    "stars": 34,
+    "language": "Python",
+    "updated": "2025-02-26",
+    "topics": [
+      "guardrail-models",
+      "llm",
+      "llm-safety"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "aporthq/aport-agent-guardrails",
+    "url": "https://github.com/aporthq/aport-agent-guardrails",
+    "description": "Deterministic pre-action authorization for AI agents. Guardrails run before tool execution, so prompt injection cannot bypass policy checks.",
+    "stars": 30,
+    "language": "Shell",
+    "updated": "2026-11-12",
+    "topics": [
+      "ai",
+      "ai-agent-governance",
+      "ai-agents",
+      "ai-agents-framework",
+      "guardrails"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "atliq/guardex-ai",
+    "url": "https://github.com/atliq/guardex-ai",
+    "description": "Python SDK for LLM guardrails with safety classification, PII detection, prompt injection defense, and grounding checks. Protect AI applications locally with zero external APIs, streaming support, and plug-and-play integration for any LLM.",
+    "stars": 29,
+    "language": "Python",
+    "updated": "2026-10-13",
+    "topics": [
+      "ai-safety",
+      "ai-security",
+      "content-moderation",
+      "data-privacy",
+      "generative-ai"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "i1see1you/VirbiusAgent",
+    "url": "https://github.com/i1see1you/VirbiusAgent",
+    "description": "Open-source AI Agent security platform — prompt injection defense, MCP tool-call guardrails, eBPF runtime observability. Four-tier Edge→Gateway→Kernel→Cloud architecture.",
+    "stars": 29,
+    "language": "Java",
+    "updated": "2026-11-17",
+    "topics": [
+      "agent-security",
+      "ai-security",
+      "ebpf",
+      "falco",
+      "mcp"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "logi-cmd/agent-guardrails",
+    "url": "https://github.com/logi-cmd/agent-guardrails",
+    "description": "Checks AI-generated code changes before merge: scope, validation, risk, review evidence, and optional Verity receipts.",
+    "stars": 28,
+    "language": "JavaScript",
+    "updated": "2026-08-16",
+    "topics": [
+      "agent-guardrails",
+      "ai-agent",
+      "ai-safety",
+      "claude-code",
+      "cli"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "manuelfussTC/PulseFramework",
+    "url": "https://github.com/manuelfussTC/PulseFramework",
+    "description": "PULSE Framework: CLI (pulse) + MCP Server (pulse_*) for controlled agentic development. Features 30-min rule, 5 safeguards, loop detection, Git checkpoints, and escalation workflows.",
+    "stars": 28,
+    "language": "TypeScript",
+    "updated": "2026-11-04",
+    "topics": [
+      "ai",
+      "ai-assisted-development",
+      "cursor",
+      "developer-experience",
+      "framework"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "doggy8088/github-copilot-coding-agent-firewall-switcher-extension",
+    "url": "https://github.com/doggy8088/github-copilot-coding-agent-firewall-switcher-extension",
+    "description": "",
+    "stars": 25,
+    "language": "JavaScript",
+    "updated": "2025-12-16",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "kangmintong/R-2-Guard",
+    "url": "https://github.com/kangmintong/R-2-Guard",
+    "description": "[ICLR 2025] Code implementation of R^2-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning",
+    "stars": 24,
+    "language": "Python",
+    "updated": "2024-07-08",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "pranithvelar/Friday_mark2",
+    "url": "https://github.com/pranithvelar/Friday_mark2",
+    "description": "Building Friday — a smarter, more advanced successor to my JARVIS project. Production-grade hybrid LLM system with agentic loops, intelligent decision-making, and heavy safeguards against crashes. Built on proven open-source tools for reliability. Updated daily, refined from every mistake JARVIS taught me",
+    "stars": 24,
+    "language": "Python",
+    "updated": "2026-06-17",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "hoophq/fence",
+    "url": "https://github.com/hoophq/fence",
+    "description": "Guardrails for AI coding agents — block catastrophic tool calls before they run. Semantic, agent-neutral, near-zero false positives.",
+    "stars": 23,
+    "language": "Go",
+    "updated": "2026-08-03",
+    "topics": [
+      "ai-agents",
+      "ai-safety",
+      "claude-code",
+      "cli",
+      "codex"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "fpytloun/intaris",
+    "url": "https://github.com/fpytloun/intaris",
+    "description": "Guardrails service for AI agents. Default-deny tool call evaluation with LLM safety analysis, priority-ordered decision matrix, and human-in-the-loop escalations. Session recording, behavioral analysis, MCP proxy, secret redaction, and real-time audit.",
+    "stars": 22,
+    "language": "Python",
+    "updated": "2026-11-08",
+    "topics": [
+      "agent-safety",
+      "ai-agents",
+      "automation",
+      "guardrails",
+      "human-in-the-loop"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "GoldenWing-360/claude-security-skills",
+    "url": "https://github.com/GoldenWing-360/claude-security-skills",
+    "description": "25 production-tested defensive security skills for Claude Code - WordPress, VPS, Cloudflare, Next.js hardening, AI agent guardrails, MCP security, prompt injection defense, OWASP LLM Top 10, LLM coding failure modes (slopsquatting, hallucinated APIs, sycophancy), incident response, GDPR/DACH compliance. MIT, battle-tested.",
+    "stars": 21,
+    "language": "Python",
+    "updated": "2026-10-27",
+    "topics": [
+      "ai-agent-security",
+      "ai-security",
+      "claude-code",
+      "claude-skills",
+      "cloudflare"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "Eyr3/PrivacyAsst",
+    "url": "https://github.com/Eyr3/PrivacyAsst",
+    "description": "PrivacyAsst: Safeguarding User Privacy in Tool-Using Large Language Model Agents (TDSC 2024)",
+    "stars": 21,
+    "language": "Python",
+    "updated": "2024-03-29",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "morganwilliscloud/ai-agent-guardrails",
+    "url": "https://github.com/morganwilliscloud/ai-agent-guardrails",
+    "description": "",
+    "stars": 19,
+    "language": "Python",
+    "updated": "2026-11-11",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "remorses/opencode-injection-guard",
+    "url": "https://github.com/remorses/opencode-injection-guard",
+    "description": "Prompt injection detection plugin for OpenCode. Works with any LLM provider. Scans tool call outputs with a judge model before they reach the agent. Alternative to OpenAI Guardrails.",
+    "stars": 19,
+    "language": "TypeScript",
+    "updated": "2026-10-15",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "Acacian/aegis",
+    "url": "https://github.com/Acacian/aegis",
+    "description": "LLM guardrails & prompt injection detection for Python. Auto-instruments LangChain, CrewAI, OpenAI, LiteLLM + 8 more frameworks. PII masking, toxicity detection, policy CI/CD. One line, zero code changes.",
+    "stars": 18,
+    "language": "Python",
+    "updated": "2026-11-14",
+    "topics": [
+      "agent-security",
+      "ai-agent-security",
+      "ai-agents",
+      "ai-governance",
+      "ai-safety"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "everafterlabs/jes",
+    "url": "https://github.com/everafterlabs/jes",
+    "description": "Open-source guardrails for AI agents powered by decision models like Jev; checks prompts, retrieved content, tool calls and responses for prompt injection, jailbreaks and secret/PII leaks.",
+    "stars": 18,
+    "language": "Python",
+    "updated": "2026-11-03",
+    "topics": [
+      "ai-agents",
+      "ai-security",
+      "guardrails",
+      "jailbreak",
+      "langchain"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "roboticforce/agent-guardrails",
+    "url": "https://github.com/roboticforce/agent-guardrails",
+    "description": "Hard policy enforcement for AI coding agents. Prevent destructive terraform, database, k8s, and cloud commands.",
+    "stars": 17,
+    "language": "Shell",
+    "updated": "2026-07-29",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "rock3r/atc",
+    "url": "https://github.com/rock3r/atc",
+    "description": "Daemonless Agent Traffic Control for Android emulators, iOS Simulators, and physical devices — leases, warm-affinity wait queue, snapshots, crash recovery, and multi-agent guardrails",
+    "stars": 17,
+    "language": "JavaScript",
+    "updated": "2026-11-04",
+    "topics": [
+      "adb",
+      "android",
+      "claude-code",
+      "codex",
+      "emulator"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "akasecurity/ai-tc",
+    "url": "https://github.com/akasecurity/ai-tc",
+    "description": "Guardrails for the agent harness. Regulated data stays on your machine, and every prompt and tool call is scanned before it runs.",
+    "stars": 17,
+    "language": "TypeScript",
+    "updated": "2026-11-18",
+    "topics": [
+      "agents",
+      "ai",
+      "claude",
+      "claude-code",
+      "claude-code-plugin"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "MR9812/BlindGuard",
+    "url": "https://github.com/MR9812/BlindGuard",
+    "description": "code for paper: BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks",
+    "stars": 16,
+    "language": "Python",
+    "updated": "2026-08-24",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "JialongZhou666/GUARDIAN",
+    "url": "https://github.com/JialongZhou666/GUARDIAN",
+    "description": "[NeurIPS 2025] Official implementation of \"GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal Graph Modeling\"",
+    "stars": 16,
+    "language": "Python",
+    "updated": "2025-10-14",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "jzOcb/agent-guardrails",
+    "url": "https://github.com/jzOcb/agent-guardrails",
+    "description": "Mechanical enforcement tools to prevent AI agents from bypassing established project standards.",
+    "stars": 15,
+    "language": "Shell",
+    "updated": "2026-03-16",
+    "topics": [
+      "ai-agents",
+      "ai-guardrails",
+      "claude-code-skill",
+      "claude-code-skills",
+      "clawdbot-skill"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "ljj-cyber/SafeHarbor",
+    "url": "https://github.com/ljj-cyber/SafeHarbor",
+    "description": "The public repository of ICML 2026 \"SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety\"\"",
+    "stars": 15,
+    "language": "Python",
+    "updated": "2026-05-06",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "higagan/modelfuzz",
+    "url": "https://github.com/higagan/modelfuzz",
+    "description": "🛡️ Runtime guardrails for AI agents. Intercept and block unsafe tool calls caused by prompt injection.",
+    "stars": 15,
+    "language": "Python",
+    "updated": "2026-10-19",
+    "topics": [
+      "ai-agents",
+      "ai-security",
+      "guardrails",
+      "indirect",
+      "llm-security"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "Responsible-AI-Labs/rail-score-sdk",
+    "url": "https://github.com/Responsible-AI-Labs/rail-score-sdk",
+    "description": "Official Python SDK for RAIL Score. LLM evaluation across 8 dimensions, guardrails, safe regeneration, agent tool-call eval, and compliance (GDPR, HIPAA, EU AI Act, India DPDP).",
+    "stars": 15,
+    "language": "Python",
+    "updated": "2026-06-12",
+    "topics": [
+      "ai",
+      "ai-compliance",
+      "ai-governance",
+      "ai-safety",
+      "artificial-intelligence"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "LegioX-Cyber-Technologies/DeceptivGuard",
+    "url": "https://github.com/LegioX-Cyber-Technologies/DeceptivGuard",
+    "description": "Deception LLM Guardrail that deceives perceived adversarial queries instead of refusing them.",
+    "stars": 14,
+    "language": "Python",
+    "updated": "2026-04-15",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "gulbaki/jev-llm-guard",
+    "url": "https://github.com/gulbaki/jev-llm-guard",
+    "description": "Contextual OWASP LLM guardrail powered by Jev, with a Turkish interactive demo",
+    "stars": 14,
+    "language": "JavaScript",
+    "updated": "2026-10-01",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "DebarghaG/LeanGuard",
+    "url": "https://github.com/DebarghaG/LeanGuard",
+    "description": "Lean-native temporal policies and runtime guardrails for agent tool use",
+    "stars": 14,
+    "language": "Python",
+    "updated": "2026-11-15",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "codewithaarohi/Multi_agent_system_part_3",
+    "url": "https://github.com/codewithaarohi/Multi_agent_system_part_3",
+    "description": "Production-Ready Multi-Agent AI System with LangGraph | Supervisor Agent + Guardrails + Human-in-the-Loop",
+    "stars": 13,
+    "language": "Python",
+    "updated": "2026-08-02",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "OMD-123/agent-loop-guard",
+    "url": "https://github.com/OMD-123/agent-loop-guard",
+    "description": "Zero-dependency guardrail framework for AI agents. Stops runaway loops, prompt injection, hallucination and unsafe tool calls before they execute. Provider-agnostic, dual ESM/CJS, TypeScript-first.",
+    "stars": 13,
+    "language": "TypeScript",
+    "updated": "2026-11-17",
+    "topics": [
+      "agent",
+      "agent-safety",
+      "ai",
+      "ai-agent",
+      "ai-orchestration"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "AperionAI/shield",
+    "url": "https://github.com/AperionAI/shield",
+    "description": "Local guardrails for AI coding agents. Checks each tool call from Claude Code, Cursor, Codex and MCP servers, and stops or asks before destructive ones run (DROP TABLE, rm -rf, force-push, unscoped UPDATE/DELETE). Free, runs on your machine, source-available under the Elastic License 2.0.",
+    "stars": 13,
+    "language": "Rust",
+    "updated": "2026-11-13",
+    "topics": [
+      "ai-coding-agents",
+      "ai-framework",
+      "ai-guardrails",
+      "ai-safety",
+      "claude-code"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "AdityaBhatt3010/OWASP-Agentic-AI-CTF-FinBot-DEMO-Goal-Manipulation",
+    "url": "https://github.com/AdityaBhatt3010/OWASP-Agentic-AI-CTF-FinBot-DEMO-Goal-Manipulation",
+    "description": "OWASP Agentic AI CTF – FinBot Goal Manipulation challenge, showing how crafted prompts can override AI safeguards to approve fraudulent invoices.",
+    "stars": 13,
+    "language": "",
+    "updated": "2025-08-13",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "kkrlstrm/cc-logger",
+    "url": "https://github.com/kkrlstrm/cc-logger",
+    "description": "Observability for Claude Code: HTTP hooks record sessions, sub-agents and tool calls to Postgres, so agent work can be inspected, compared across runs, and turned into guardrails.",
+    "stars": 12,
+    "language": "Python",
+    "updated": "2026-10-19",
+    "topics": [
+      "agent-observability",
+      "agent-telemetry",
+      "ai-agents",
+      "anthropic",
+      "claude"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "truss-agent/truss-harness",
+    "url": "https://github.com/truss-agent/truss-harness",
+    "description": "A modular coding-agent runtime for local or cloud models with a CLI, full-screen TUI, VS Code extension, desktop app, neovim plugin, and mobile app built on the same tools, safeguards, and workspace state.",
+    "stars": 12,
+    "language": "TypeScript",
+    "updated": "2026-11-18",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "ai-agent"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "SSSTAiNLESSS/AntiGravity-Launchpad",
+    "url": "https://github.com/SSSTAiNLESSS/AntiGravity-Launchpad",
+    "description": "🚀 Production-ready multi-agent template for Google AntiGravity IDE. 7 agents, 11 skills, 9 MCP servers, 7 workflows. Plan-first discipline, anti-hallucination safeguards, GSD integration, Stitch design-to-code pipeline, and a self-replicating skill creator. Clone → configure → build.",
+    "stars": 12,
+    "language": "Shell",
+    "updated": "2026-02-10",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "Sapience-AI/openclaw-middleware-suite",
+    "url": "https://github.com/Sapience-AI/openclaw-middleware-suite",
+    "description": "Six in-process middlewares for OpenClaw: HITL approvals, prompt-injection guardrails, PII redaction, tool-call budgets, context compaction, and complexity-aware model routing. Zero telemetry, all state local.",
+    "stars": 11,
+    "language": "TypeScript",
+    "updated": "2026-11-03",
+    "topics": [
+      "ai-guardrails",
+      "ai-safety",
+      "context-compaction",
+      "human-in-the-loop",
+      "llm-agents"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "yjzscode/INFA-Guard",
+    "url": "https://github.com/yjzscode/INFA-Guard",
+    "description": "[EMNLP 2026] Code for Paper INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems",
+    "stars": 11,
+    "language": "Python",
+    "updated": "2026-08-21",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "tanaikech/adk-gas",
+    "url": "https://github.com/tanaikech/adk-gas",
+    "description": "GASADK: Agent Development Kit for Google Apps Script. Build AI agents with Gemini API, MCP, A2A, Agent Skills, Human-in-the-Loop (HITL) suspension/resumption, token quota safeguards, and dynamic Google API MCP servers.",
+    "stars": 11,
+    "language": "JavaScript",
+    "updated": "2026-06-24",
+    "topics": [
+      "a2a",
+      "adk",
+      "agent-development-kit",
+      "agent-skills",
+      "agent2agent"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "amirimi/Guardian",
+    "url": "https://github.com/amirimi/Guardian",
+    "description": "Extensible Go microkernel for LLM guardrails, quota enforcement and policy plugins.",
+    "stars": 10,
+    "language": "Go",
+    "updated": "2026-10-16",
+    "topics": [
+      "ai-infrastructure",
+      "chatgpt",
+      "go",
+      "golang",
+      "guardian"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "aws-samples/safeguarding-travel-agent-guardrails-amazon-bedrock",
+    "url": "https://github.com/aws-samples/safeguarding-travel-agent-guardrails-amazon-bedrock",
+    "description": "",
+    "stars": 9,
+    "language": "Jupyter Notebook",
+    "updated": "2024-06-18",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "mcpware/IntentProbe",
+    "url": "https://github.com/mcpware/IntentProbe",
+    "description": "CPU activation probes for AI-agent guardrails and classification. One frozen local model pass, many independent heads. Open models, code and reproducible benchmarks.",
+    "stars": 9,
+    "language": "Python",
+    "updated": "2026-10-19",
+    "topics": [
+      "activation-probe",
+      "activation-probing",
+      "agent-security",
+      "ai-agent-security",
+      "authorization"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "MangroveTechnologies/mangrove-agent",
+    "url": "https://github.com/MangroveTechnologies/mangrove-agent",
+    "description": "Mangrove gives trading agents guardrails. Local MCP server and plugin: built-in risk management (circuit breakers, risk-based position sizing, automatic stop-loss and take-profit orders), 100+ strategy R&D tools, execution across 12+ venues. Free API key or x402 pay per call.",
+    "stars": 9,
+    "language": "Python",
+    "updated": "2026-11-17",
+    "topics": [
+      "agent-marketplace",
+      "ai-agent",
+      "ai-guardrails",
+      "automated-trading",
+      "backtesting"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "ValentinTorassa/VT-Agent-Firewall",
+    "url": "https://github.com/ValentinTorassa/VT-Agent-Firewall",
+    "description": "Local security gateway between an AI agent and its tools (fs, shell, network, MCP): default-deny policy engine, human approval, append-only audit log. Tested against indirect prompt injection trying to exfiltrate a fake .env to 127.0.0.1. Python stdlib only, 118 tests. Not production-ready - a security lab.",
+    "stars": 9,
+    "language": "Python",
+    "updated": "2026-11-10",
+    "topics": [
+      "ai-agents",
+      "ai-security",
+      "audit-log",
+      "mcp",
+      "policy-engine"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "zitrino-oss/znyx-sdk",
+    "url": "https://github.com/zitrino-oss/znyx-sdk",
+    "description": "Official client SDKs for the ZNYX Runtime guardrails API - Python, TypeScript, Java, C#, Ruby, and Rust. Evaluate LLM inputs, outputs, and tool calls against your safety policies in real time.",
+    "stars": 9,
+    "language": "Python",
+    "updated": "2026-11-01",
+    "topics": [
+      "ai-safety",
+      "ai-security",
+      "csharp",
+      "guardrails",
+      "java"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "samfoy/pi-steering-hooks",
+    "url": "https://github.com/samfoy/pi-steering-hooks",
+    "description": "Deterministic tool-call guardrails for pi — enforce rules with before-tool hooks instead of prompts",
+    "stars": 9,
+    "language": "TypeScript",
+    "updated": "2026-09-24",
+    "topics": [
+      "agent-guardrails",
+      "ai-coding-agent",
+      "developer-tools",
+      "guardrails",
+      "pi-coding-agent"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "zitrino-oss/znyx-runtime",
+    "url": "https://github.com/zitrino-oss/znyx-runtime",
+    "description": "Local-first guardrails evaluation server for LLM apps. Scans inputs, outputs, and tool calls against a YAML policy and returns allow / block / redact. No database, runs entirely on your machine.",
+    "stars": 9,
+    "language": "Python",
+    "updated": "2026-11-17",
+    "topics": [
+      "ai-agents",
+      "ai-safety",
+      "content-moderation",
+      "fastapi",
+      "guardrails"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "THU-KEG/RIDAR",
+    "url": "https://github.com/THU-KEG/RIDAR",
+    "description": "RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention",
+    "stars": 9,
+    "language": "Python",
+    "updated": "2026-10-25",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "xkkkkkkm/e-commerce-copy-quality-inspection-agent",
+    "url": "https://github.com/xkkkkkkm/e-commerce-copy-quality-inspection-agent",
+    "description": "LLM-led e-commerce content review with rule-based safeguards, tenant-isolated MySQL, Redis workers, and auditable publication decisions.",
+    "stars": 9,
+    "language": "Python",
+    "updated": "2026-10-06",
+    "topics": [
+      "ai-agent",
+      "artificial-intelligence",
+      "bilingual",
+      "content-moderation",
+      "deepseek"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "mverab/slashstack-skills",
+    "url": "https://github.com/mverab/slashstack-skills",
+    "description": "Eleven open-source, MIT-licensed skills for AI coding agents — /preflight, /audit, /ship, /remember and more. Plain-Markdown agent guardrails for Claude Code, Codex, Cursor & Hermes. Free layer of SlashStack.",
+    "stars": 8,
+    "language": "",
+    "updated": "2026-09-11",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "codex"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "rayhanadev/oxray",
+    "url": "https://github.com/rayhanadev/oxray",
+    "description": "Opinionated agent guardrails for TypeScript projects, powered by oxlint, oxfmt, oxclippy, and a small set of personal rules.",
+    "stars": 8,
+    "language": "TypeScript",
+    "updated": "2026-11-09",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "kodigitaccount/LLM-Guardrails_-Enterprise-AI_-Responsible-AI",
+    "url": "https://github.com/kodigitaccount/LLM-Guardrails_-Enterprise-AI_-Responsible-AI",
+    "description": "",
+    "stars": 8,
+    "language": "Python",
+    "updated": "2026-08-31",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "pavanbelagatti/LLM-Guardrails-Tutorial",
+    "url": "https://github.com/pavanbelagatti/LLM-Guardrails-Tutorial",
+    "description": "",
+    "stars": 8,
+    "language": "Python",
+    "updated": "2025-11-03",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "mickeybeurskens/guess-the-password",
+    "url": "https://github.com/mickeybeurskens/guess-the-password",
+    "description": "Testingrounds for LLM guardrail techniques",
+    "stars": 8,
+    "language": "Python",
+    "updated": "2024-08-13",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "vijaym2k6/SteerPlane",
+    "url": "https://github.com/vijaym2k6/SteerPlane",
+    "description": "The safety layer for the AGI era. Runtime guardrails for autonomous AI agents.",
+    "stars": 8,
+    "language": "Python",
+    "updated": "2026-11-06",
+    "topics": [
+      "agent-governance",
+      "ai-agents",
+      "ai-safety",
+      "cost-control",
+      "guardrails"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "berkcangumusisik/repo-seatbelt",
+    "url": "https://github.com/berkcangumusisik/repo-seatbelt",
+    "description": "A safety layer for AI coding agents. CLAUDE.md/AGENTS.md generator, MCP runtime guardrail, pre-commit hook, GitHub Action.",
+    "stars": 8,
+    "language": "TypeScript",
+    "updated": "2026-05-31",
+    "topics": [
+      "ai-agents",
+      "ai-safety",
+      "ai-tools",
+      "aider",
+      "claude-code"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "SafellmHub/hguard-go",
+    "url": "https://github.com/SafellmHub/hguard-go",
+    "description": "Guardrails for LLMs: detect and block hallucinated tool calls to improve safety and reliability.",
+    "stars": 8,
+    "language": "Go",
+    "updated": "2025-07-18",
+    "topics": [
+      "agent-safety",
+      "ai",
+      "ai-safety",
+      "hallucination-detection",
+      "language-models"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "higress-group/issue-spec",
+    "url": "https://github.com/higress-group/issue-spec",
+    "description": "Open-source project governance on GitHub: maintainers shape contributor agents' context before implementation through formal, reviewable Proposal/Design Issues, with trust boundaries and safeguards to reduce prompt-injection risk.",
+    "stars": 8,
+    "language": "Go",
+    "updated": "2026-11-17",
+    "topics": [
+      "ai-agents",
+      "context-engineering",
+      "developer-tools",
+      "github",
+      "human-in-the-loop"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "CampanulaBells/XG-Guard",
+    "url": "https://github.com/CampanulaBells/XG-Guard",
+    "description": "Code repo for ACL 26 Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection",
+    "stars": 8,
+    "language": "Python",
+    "updated": "2026-05-19",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "azep-ninja/ai-agent-guardrails",
+    "url": "https://github.com/azep-ninja/ai-agent-guardrails",
+    "description": "",
+    "stars": 7,
+    "language": "TypeScript",
+    "updated": "2026-05-03",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "massdriver-cloud/agentic-infrastructure-tutorial",
+    "url": "https://github.com/massdriver-cloud/agentic-infrastructure-tutorial",
+    "description": "Making Infrastructure Safe for Agents: Guardrails, Context, and Trust in the Age of Agentic Development Walk Through",
+    "stars": 7,
+    "language": "Dockerfile",
+    "updated": "2026-03-20",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "SentriusLLC/Sentrius",
+    "url": "https://github.com/SentriusLLC/Sentrius",
+    "description": "Command and Control your Infra and Agents. Guardrails for agents and humans! Single pane of glass to manage infrastructure and tooling. Your Human and Agent gateway. Est 2023",
+    "stars": 7,
+    "language": "Java",
+    "updated": "2026-09-11",
+    "topics": [
+      "agents",
+      "ai",
+      "guardrails",
+      "openai",
+      "security"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "agentgazer/agentgazer",
+    "url": "https://github.com/agentgazer/agentgazer",
+    "description": "From Observability to Control - AI Agents' Firewall",
+    "stars": 7,
+    "language": "TypeScript",
+    "updated": "2026-02-18",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "LeoKemp223/embedded-llm-guardrails",
+    "url": "https://github.com/LeoKemp223/embedded-llm-guardrails",
+    "description": "用于在嵌入式、单片机、RTOS、驱动和板级工程中使用 LLM 辅助开发时建立安全边界的 skill。",
+    "stars": 7,
+    "language": "",
+    "updated": "2026-05-27",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "lamhotsiagian/guardrail-system-rag",
+    "url": "https://github.com/lamhotsiagian/guardrail-system-rag",
+    "description": "An interactive, chat-driven learning system and production reference architecture for recommendation-system engineering with layered LLM guardrails, built with FastAPI, LangGraph, Ollama, and pgvector, fronted by a modern Next.js / React 19 App Router lab UI.",
+    "stars": 7,
+    "language": "Python",
+    "updated": "2026-07-30",
+    "topics": [
+      "agentic-ai",
+      "guardrails",
+      "llm",
+      "rag-chatbot",
+      "security-ai"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "hexitlabs/vigil",
+    "url": "https://github.com/hexitlabs/vigil",
+    "description": "🛡️ Open-source safety guardrail for AI agent tool calls. <2ms, zero dependencies.",
+    "stars": 7,
+    "language": "TypeScript",
+    "updated": "2026-02-15",
+    "topics": [
+      "agent-safety",
+      "ai",
+      "guardrails",
+      "langchain",
+      "llm"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "Cashcoin123/Cashcoin123",
+    "url": "https://github.com/Cashcoin123/Cashcoin123",
+    "description": "# Application card: GitHub Copilot Chat Learn how to use GitHub Copilot Chat responsibly by understanding its purposes, capabilities, and limitations. ## What is an Application Card? <!-- Do not modify this text.--> GitHub’s application and platform cards are intended to help you understand how our AI technology works, the choices application owners can make that influence application performance and behavior, and the importance of considering the whole application, including the technology, the people, and the environment. Application cards are created for AI applications and platform cards are created for AI platform services. These resources can support the development or deployment of your own applications and can be shared with users or stakeholders impacted by them. As part of its commitment to responsible AI, GitHub adheres to Microsoft's [six core principles](https://www.microsoft.com/en-us/ai/principles-and-approach/?msockid=3da790040c776d6f2b5485e40de56c06#ai-principles): fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability. These principles are embedded in the [Responsible AI Standard](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Microsoft-Responsible-AI-Standard-General-Requirements.pdf?culture=en-us\\&country=us), which guides teams in designing, building, and testing AI applications. Application and Platform Cards play a key role in operationalizing these principles by offering transparency around capabilities, intended uses, and limitations. For further insight, readers are encouraged to explore Microsoft’s [Responsible AI Transparency Report](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/Responsible-AI-Transparency-Report-2025-vertical.pdf) and [GitHub Terms](/en/site-policy/github-terms). ## 1. Overview GitHub Copilot Chat is a chat interface that lets you interact with GitHub Copilot to ask and receive answers to coding-related questions. GitHub Copilot Chat is available on GitHub.com, in supported IDEs (VS Code, Visual Studio, JetBrains, and Eclipse), on GitHub Mobile, and in Windows Terminal. On GitHub.com and in GitHub Desktop, Copilot can also generate pull request summaries and commit messages—AI-powered overviews of changes made in a pull request or commit. GitHub Copilot Chat can answer a wide range of coding-related questions on topics including syntax, programming concepts, test cases, debugging, and more. GitHub Copilot Chat is not designed to answer non-coding questions or provide general information on topics outside of coding. The primary supported language for GitHub Copilot Chat is English. ## 2. Key terms The following list provides a glossary of key terms related to GitHub Copilot Chat: * **Content filtering**: A safety system that scans prompts and responses to detect and block harmful content before it is shown to the user. * **Hallucination**: A phenomenon where a language model generates output that sounds plausible but is factually incorrect, unsupported by the provided context, or entirely fabricated. Hallucinations are a known risk of large language models and are reason that human review of AI-generated output is important. * **Large language model (LLM)**: A type of neural network trained on a large body of text data that can generate, analyze, and transform natural language and code. GitHub Copilot Chat uses one or more LLMs to process prompts and produce responses. * **Prompt**: The input that is provided to GitHub Copilot Chat. The system combines the prompt with additional context (for example, open files or repository data) before sending it to the language model. * **Public code matching**: A feature that checks whether Copilot's suggestions match publicly available code. Depending on your settings, matching suggestions may be turned off or on; if turned on, it can either block or annotate with a reference to the source repository and any license information. * **Pull request summary**: An AI-generated overview of the changes in a pull request, consisting of a prose paragraph and a bulleted list of key changes linked to the affected files. Summaries are generated on demand on GitHub.com. * **Red teaming**: A structured testing practice in which testers deliberately attempt to provoke unsafe, harmful, or unintended behavior from an AI system. Red teaming helps identify vulnerabilities and improve safety mitigations before and after release. * **Training data**: The large body of publicly available text and code that was used to train the foundation models behind GitHub Copilot Chat. The composition of the training data influences the quality and coverage of the model's suggestions across different programming languages, frameworks, and topics. ## 3. Key features or capabilities The key features and capabilities outlined here describe what GitHub Copilot Chat is designed to do and how it performs across supported tasks. * **Conversational coding assistance**: GitHub Copilot Chat provides a natural language interface for asking coding-related questions and receiving answers in the form of code, explanations, or step-by-step guidance. Users can ask follow-up questions to refine responses, and the conversation history is maintained within a session. * **Context-aware responses**: GitHub Copilot Chat uses contextual information—such as open files, the active repository, chat history, and (when enabled) web search results—to generate responses that are relevant to the user's current work. The specific context available depends on the platform (GitHub.com, IDE, Mobile, Windows Terminal, or GitHub Desktop). * **Multi-platform availability**: GitHub Copilot Chat is available across multiple surfaces, including GitHub.com, supported IDEs (VS Code, Visual Studio, JetBrains, and Eclipse), GitHub Mobile, Windows Terminal, and GitHub Desktop. Each platform offers a tailored experience optimized for its environment. * **Agent mode**: In supported IDEs, GitHub Copilot Chat can operate in agent mode, where the model autonomously plans multi-step tasks, invokes tools (such as running terminal commands or editing files), and iterates on results. This extends the chat experience beyond single-turn question-and-answer interactions. * **Copilot Spaces**: Spaces let users organize repositories, files, issues, and other materials into a curated collection of context. When a question is asked inside a space, Copilot uses the included context to produce more targeted and relevant responses. Spaces can also be accessed from the IDE via the remote GitHub MCP server. * **Pull request summaries**: On GitHub.com, Copilot can generate an AI-powered summary of the changes in a pull request. The output consists of a prose overview followed by a bulleted list of key changes linked to the affected files. Summaries are generated on demand and are intended to help reviewers quickly understand what changed. * **Commit message generation**: On GitHub.com and in GitHub Desktop, Copilot can generate a suggested commit summary (title) and description based on the code changes you have selected. In GitHub Desktop, users can select specific lines of code or files to improve context and accuracy. Generated messages can be reviewed and edited before committing. * **Bring Your Own Key (BYOK)**: Organizations can connect GitHub Copilot Chat to large language models from supported third-party providers by supplying their own API key, rather than using the default GitHub-hosted model. * **Content filtering**: At times, GitHub Copilot Chat may include a content filtering system that scans prompts and responses to detect and block harmful content. A public code matching feature checks whether suggestions match publicly available code and, depending on settings, blocks or annotates those matches with source and license information. ## 4. Intended uses GitHub Copilot Chat can be used in multiple scenarios across a variety of industries. Some examples of use cases include: * **Answering coding questions**: Ask GitHub Copilot Chat for help or clarification on specific coding problems and receive responses in natural language or code snippet format. The response may draw on the model's training data, repository context, and web search results (when enabled). * **Explaining code and suggesting improvements**: Generate natural language descriptions of a function's purpose, inputs, outputs, and dependencies. GitHub Copilot Chat can also suggest improvements such as better error handling or more readable control flow. Note that generated explanations may not always be accurate or complete and should be reviewed. * **Generating unit test cases**: GitHub Copilot Chat can help write unit test cases by generating code snippets based on the code open in the editor or a highlighted code snippet. It can suggest possible input parameters, expected output values, and assertions based on the function's signature and body. GitHub Copilot Chat can also suggest test cases for edge cases and boundary conditions—such as error handling, null values, or unexpected input types—that might be difficult to identify manually. Generated test cases may not cover all possible scenarios; manual testing and code review are still necessary. * **Proposing code fixes**: Get suggested fixes for bugs based on the error message, code syntax, and surrounding context. GitHub Copilot Chat can suggest changes to variables, control structures, or function calls that might resolve the issue. Note that suggested fixes may not always be optimal or complete. * **Planning coding tasks**: Read and summarize GitHub issues, answer questions about them, or propose next steps. * **Learning about releases, discussions, and commits**: Summarize what changed in a release, the gist of a discussion, or the changes in a specific commit. * **Summarizing pull request changes (GitHub.com)**: Generate an AI-powered summary of the changes in a pull request—including a prose overview and a bulleted list of key changes linked to the affected files—to help reviewers quickly understand what changed and where to focus their review. * **Generating commit messages (GitHub.com and GitHub Desktop)**: Generate a commit message summary (title) and description based on the code changes you've selected to commit, helping you save time and maintain clear commit histories. In GitHub Desktop, you can select specific lines of code or files for better context understanding to increase accuracy. You can review and edit the suggested title and description before committing. * **Finding the right command (Windows Terminal)**: Ask Copilot to suggest commands that help you perform tasks in the command line. You can revise your question until the returned command meets your expectations, then insert it into your command line to run it. * **Explaining an unfamiliar command (Windows Terminal)**: Ask Copilot to generate a natural language description of a command's functionality, including its input and output parameters and usage examples. Note that generated explanations may not always be accurate or complete. * **Developing a new feature (Spaces)**: Bundle relevant code, product specs, and design notes in a space so Copilot can explain the current implementation, highlight gaps, and draft new code or next steps. * **Defining logic for repeated tasks (Spaces)**: Document a process once—with flowcharts, examples, or schemas—and reuse it across your team for consistent patterns and reusable templates. * **Sharing knowledge with teammates (Spaces)**: Collect the latest code and documentation in one place so Copilot can explain systems, answer questions, and onboard teammates. ## 5. Models and training data GitHub Copilot Chat leverages a variety of AI models to power the experience that users see. For a comparison of the models available for Copilot, see [AI model comparison](/en/copilot/reference/ai-models/model-comparison). For the full list of supported models, see [Supported AI models in GitHub Copilot](/en/copilot/reference/ai-models/supported-models). For information on where models are hosted, see [Hosting of models for GitHub Copilot](/en/copilot/reference/ai-models/model-hosting). To learn more about the data used to train the foundation models behind GitHub Copilot Chat, refer to the linked AI model comparison above and [What data has GitHub Copilot been trained on?](https://github.com/features/copilot#faq) in the GitHub Copilot FAQ. ### Using Bring Your Own Key (BYOK) When you use Bring Your Own Key with GitHub Copilot Chat, you can connect the chat experience to large language models from supported providers beyond the default Copilot model. Examples of supported providers include Anthropic, AWS Bedrock, Google AI Studio, Microsoft Foundry, OpenAI, OpenAI-compatible providers, and xAI. You add your API key for the chosen provider directly in your Copilot settings. When BYOK is active: * **Feature scope**: Your chosen model is used within GitHub Copilot Chat. In Agent mode, BYOK powers the main conversation, but certain actions such as code application or other tool calls may still use Copilot-integrated models optimized for those tasks. These built-in models do not run through your BYOK provider. * **Content filtering**: Regardless of which provider is active, responses still pass through GitHub's API and may have content filtering before results are shown to you. * **Quality considerations**: Suggestions may vary depending on the strengths and training coverage of your chosen provider. * **Data handling**: When using BYOK, your prompts and responses are transmitted to your selected provider and may be subject to that provider's data retention and privacy policies. * **Your responsibilities**: You are responsible for the following: * Provider API key security * Usage costs or quotas * Output validation * Evaluating whether your chosen model meets your safety and quality requirements * Compliance with your selected provider's terms * Determining whether your chosen model complies with applicable laws * Ensuring that a human reviews any output before using it to make decisions that affect people * **Export restrictions**: Certain AI models may be subject to export controls. Verify your selected provider and model are authorized for use in your jurisdiction. BYOK empowers your organization to choose the language model that best fits your needs. Note that model performance and safety characteristics are provider-dependent. ## 6. Performance GitHub Copilot Chat works by using a combination of natural language processing and machine learning to understand your question and provide you with an answer. This process involves: 1. **Input processing**: The user's prompt is pre-processed by the system, combined with contextual information (for example, the current repository, open files, or chat history), and sent to a large language model. User input can take the form of code snippets or plain language. 2. **Language model analysis**: The prompt is passed through the language model, which is a neural network trained on a large body of text data. The language model analyzes the input prompt. 3. **Response generation**: The model generates a response based on its analysis of the input prompt and the context provided to it. This response can take the form of generated code, code suggestions, or explanations of existing code. 4. **Output formatting**: The response is formatted with syntax highlighting, indentation, and other features to add clarity. Depending on the type of question, links to context that the model used—such as source code files, issues, or documentation—may also be provided. ### Differences by experience * **On GitHub.com**: The model can gather additional context from repository data stored on GitHub and web search results (when enabled by your administrator). Responses may include links to source code files, issues, or documentation. * **Pull request summaries (GitHub.com)**: When a user requests a summary, a workflow uses the code diffs from files to build a prompt and requests Copilot to generate an overall summary. The output consists of a prose paragraph giving an overview of the changes, followed by a bulleted list of key changes linked to the respective lines of code. You can generate a summary in the description of a new or existing pull request, or in a comment on the pull request timeline. Larger pull requests may take up to a couple of minutes to process. The only supported language for pull request summaries is English. * **Commit message generation (GitHub.com)**: When you click the **Commit changes** button on GitHub.com, Copilot generates a suggested summary (title) and description based on the code changes in the selected files. The text is inserted into the summary and description fields for you to review and edit before committing. The only supported language for commit message generation is English. * **Commit message generation (GitHub Desktop)**: When you click the Copilot button in GitHub Desktop, Copilot generates a suggested summary (title) and description based on the code changes you've selected. You can select specific lines of code or files to improve context and accuracy, and you can regenerate suggestions before finalizing. The only supported language is English. * **In your IDE**: The system combines user input with contextual information such as the name of the repository and the files the user has open. In VS Code and Visual Studio, additional context can be provided automatically from an optional `.github/copilot-instructions.md` file (the user can disable this in settings). When using the `@github` chat participant in VS Code or Visual Studio, GitHub Copilot Chat can also gather context from code stored on GitHub and from Bing search results (if enabled by your administrator). * **On GitHub Mobile**: The input prompt is pre-processed and sent to the language model. The system is only intended to respond to coding-related questions. The options available vary by Copilot plan: users with a Copilot Enterprise subscription can have conversations using data from private indexed repositories and, if the web search integration is enabled, receive responses informed by web search results. Users with a Copilot Pro subscription can discuss top popular public repositories. * **In Windows Terminal**: The user's prompt is combined with contextual information (the name of the active shell and the chat history) and sent to the language model. Responses take the form of a suggested command or an explanation of a command. Suggested commands are not run automatically—you must click on a command to insert it into your command line and then manually run it. * **In Copilot Spaces**: Spaces let you organize the context that GitHub Copilot Chat uses to answer your questions. A space can include repositories, code, pull requests, issues, free-text content like transcripts or notes, images, and file uploads. When you submit a question in a space, Copilot augments your request with relevant context from that space. Spaces can also be accessed from the IDE via the remote GitHub MCP server. Not all content in a space is used in every response—Copilot processes a portion of the included content, so being selective about what you add helps ensure relevance. GitHub Copilot Chat is intended to provide you with the most relevant answer to your question. However, it may not always provide the answer you are looking for. Users of GitHub Copilot Chat are responsible for reviewing and validating responses generated by the system to ensure they are accurate and appropriate. ## 7. Limitations Understanding GitHub Copilot Chat's limitations is crucial to determine if it is used within safe and effective boundaries. While we encourage customers to leverage GitHub Copilot Chat in their innovative solutions or applications, it's important to note that GitHub Copilot Chat was not designed for every possible scenario. We encourage users to refer to [GitHub Terms](/en/site-policy/github-terms) as well as the following considerations when choosing a use case: * **Limited scope**: GitHub Copilot Chat has been trained on a large body of code but may not be able to handle more complex code structures or obscure programming languages. For each language, the quality of suggestions depends on the volume and diversity of training data. For example, JavaScript is well-represented and well-supported, while less common languages may yield lower-quality results. * **Potential biases**: Training data drawn from existing code repositories may contain biases and errors that can be perpetuated by the tool. GitHub Copilot Chat may also be biased towards certain programming languages or coding styles, which can lead to suboptimal or incomplete code suggestions. * **Security risks**: Generated code can potentially expose sensitive information or vulnerabilities if not reviewed carefully. Always review and test generated code thoroughly, especially for security-sensitive applications. * **Matches with public code**: While the probability is low, GitHub Copilot Chat may produce code that matches code in the training set. You should take the same precautions as you would with any code that uses material you did not independently originate including rigorous testing, IP scanning, and checking for security vulnerabilities. For more information, see [Finding public code that matches GitHub Copilot suggestions](/en/copilot/how-tos/copilot-in-your-ide/copilot-for-common-tasks/find-matching-code). * **Inaccurate code**: GitHub Copilot Chat may generate code that appears valid but is not semantically or syntactically correct, or does not accurately reflect the intent of the developer. Carefully review and test generated code, particularly for critical or sensitive applications. * **Inaccurate responses to non-coding topics**: GitHub Copilot Chat is not designed to answer non-coding questions, and its responses in those contexts may be irrelevant or nonsensical. * **Risk of destructive commands (Windows Terminal)**: Copilot may suggest commands that could be destructive—such as deleting content or formatting a hard drive—that may be necessary in certain scenarios but can cause problems if used incorrectly. You are ultimately responsible for any commands you choose to execute. Despite the presence of fail-safes and safety mechanisms, executing commands carries inherent risks. * **Lines changed limits for PR summaries (GitHub.com)**: Files with more than 400 combined additions and deletions are excluded from summarization. * **PR summaries are not auto-updated (GitHub.com)**: Pull request summaries are only created when users request them manually. When updates or changes are made to the pull request, the summary is not automatically refreshed. Users can request a new summary, but should carefully review the updated output—it carries the same risks of inaccuracy as the original. * **Replication of PR content (GitHub.com)**: Because a summary outlines the changes in a pull request, if harmful or offensive terms appear in the pull request content, there is potential for the summary to replicate those terms. Users should expect terms used in their PR to appear in the AI-generated summary. * **Limited scope for commit messages (GitHub.com and GitHub Desktop)**: Commit message generation may struggle with intricate code changes, short diff windows, or recently developed programming languages. The quality of suggestions depends on the availability and diversity of training data for the languages involved. * **Replication of commit content (GitHub.com and GitHub Desktop)**: Because a commit message summarizes the changes in a commit, if harmful or offensive terms appear in the code changes, there is potential for the generated message to include those terms. * **Commit messages are not auto-updated (GitHub.com and GitHub Desktop)**: Commit messages are only generated when you request them. When you make additional changes, the commit message is not automatically refreshed. You can regenerate a new suggestion, but should carefully review the updated output—it carries the same risks of inaccuracy as the original. * **Interpretation of user intent (Spaces)**: Spaces help ground GitHub Copilot Chat's responses in curated context, but the system may still misunderstand your intent. Always review output to confirm it reflects your goals. * **Context limits (Spaces)**: Spaces have defined size limits, and GitHub Copilot Chat only processes a portion of the content you include. Not every file, document, or note in a space will be used in a response. Being selective about what you add helps ensure the most relevant context is used. * **Differing performance based on natural language**: GitHub Copilot Chat has been optimized primarily for English. You may notice differing performance with prompts in other languages. * **Leveraging web search**: On GitHub.com and when using the GitHub chat participant in supported IDEs, GitHub Copilot Chat can optionally use a Bing search to help answer your question—for example, queries about recent events, new technologies, or highly specific subjects. Your enterprise administrator can enable or disable Bing for your organization. When web search is used, the content of your prompt, along with additional context, is used to generate a Bing search query on your behalf. The search query sent to Bing is governed by [Microsoft's Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement). For more information, see [Managing policies and features for GitHub Copilot in your enterprise](/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-enterprise-policies). ## 8. Evaluations <!-- Do not modify this text.--> Performance and safety evaluations assess whether AI applications are operating reliably and securely by examining factors like groundedness, relevance, and coherence while identifying the risks of generating harmful content. The following evaluations were conducted with safety components already in place, which are also described in [9. Safety components and mitigations](#9-safety-components-and-mitigations). ### Performance and quality evaluations GitHub Copilot Chat AI features are evaluated using a combination of industry-standard benchmarks (e.g., SWE-Bench) and internally developed evaluation suites. Benchmark tasks are sourced from public open-source repositories and synthetic scenarios; no real user queries or customer code are used. Each evaluation includes multiple independent runs to account for nondeterminism in model outputs. Key metrics include resolution rate (percentage of tasks successfully completed), token efficiency, latency, and tool call reliability. Models are re-evaluated when updates are made and monitored continuously in production via error rates, response latency, and aggregate usage patterns. ### Performance and quality evaluation methods New models for GitHub Copilot Chat undergo a staged evaluation process before deployment. Integrator teams run benchmark suites specific to their surface, testing the model on representative coding tasks such as bug fixes, code generation, and multi-file refactoring. Results are reviewed against established baselines and existing production models. Models must meet or exceed baseline performance across key metrics like resolution rate, token efficiency, and latency, before advancing to the next stage. A cross-functional review board makes a formal go/no-go decision before any model is approved for user-facing deployment. ### Risk and safety evaluations <!-- Do not modify this text.--> Evaluating potential risks associated with AI-generated content is essential for safeguarding against content risks with varying degrees of severity. This includes evaluating an AI application's predisposition towards generating harmful content or testing vulnerabilities to jailbreak attacks. For GitHub, we conduct performance evaluations, including those which are adapted for coding purposes from [Microsoft Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/evaluation-evaluators/risk-safety-evaluators): * Hate and unfairness * Sexual * Violence * Self-harm * Protected material * Jailbreak * Code vulnerability ### Evaluation data for quality and safety <!-- Do not modify this text.--> Our evaluation data is custom-built to assess AI application performance across key areas of **safety** and **quality**, simulating real-world scenarios and risks. We begin by identifying relevant evaluation aspects of concern based on multi-disciplinary research and expert input. These concerns are translated into targeted evaluation objectives and guide formulation of evaluation metrics. For **safety**, we create adversarial prompts to elicit undesirable or edge-case responses, which are then scored using AI-assisted annotators trained to assess alignment with GitHub’s standards. For **quality**, we craft rubric-based prompts relevant to scenarios including evaluating retrieval-augmented generation (RAG) applications and agents. Datasets are curated from diverse sources including synthetic and public datasets to simulate real-world user scenarios. Using the curated datasets, both evaluations undergo iterative refinement and human alignment to improve metric efficacy and reliability. This methodology forms the foundation of repeatable, rigorous assessments that reflect how customers use evaluations to build better AI. ### Custom evaluations As part of our product development process, we undertake red teaming to understand and improve the safety of GitHub Copilot Chat. When enabled, input prompts and output completions are run through content filters. ## 9. Safety components and mitigations * **Content filtering**: When enabled, the content filtering system detects and prevents the output of harmful content. If you encounter offensive content, report it to `copilot-safety@github.com`. * **Public code matching**: Depending on your settings, GitHub Copilot Chat may have the duplicate detection filter turned on or off. If on, GitHub Copilot Chat either blocks suggestions that match public code or annotates them with links to the source repositories and any license details. In VS Code, if you have enabled suggestions that match public code, GitHub Copilot Chat displays a message with a link to show the matched code and any license details in the editor. In Visual Studio, JetBrains, Eclipse, and GitHub Mobile, GitHub Copilot Chat uses filters that block matches with public code. Regardless of settings, you should take the same precautions as with any code that uses material you did not independently originate—including rigorous testing, IP scanning, and checking for security vulnerabilities. For more information, see [Finding public code that matches GitHub Copilot suggestions](/en/copilot/how-tos/copilot-in-your-ide/copilot-for-common-tasks/find-matching-code). ## 10. Best practices for deploying and adopting GitHub Copilot Chat Responsible AI is a shared commitment between GitHub and its customers. While GitHub builds AI applications with safety, fairness, and transparency at the core, customers play a critical role in deploying and using these technologies responsibly within their own contexts. To support this partnership, we offer the following best practices for deployers and end users to help customers implement responsible AI effectively. * **Exercise caution and evaluate outcomes when using GitHub Copilot Chat for consequential decisions or in sensitive domains**: <!-- Do not modify this text.--> Consequential decisions are those that may have a legal or significant impact on a person's access to education, employment, financial platforms, government benefits, healthcare, housing, insurance, legal platforms, or that could result in physical, psychological, or financial harm. Sensitive domains—such as financial platforms, healthcare, and housing—require particular care due to the potential for disproportionate impact on different groups of people. When using AI for decisions in these areas, make sure that impacted stakeholders can understand how decisions are made, appeal decisions, and update any relevant input data. * **Evaluate legal and regulatory considerations**: <!-- Do not modify this text.--> Customers need to evaluate potential specific legal and regulatory obligations when using any AI platforms and solutions, which may not be appropriate for use in every industry or scenario. Additionally, AI platforms or solutions are not designed for and may not be used in ways prohibited in applicable terms of service and relevant codes of conduct. * **Exercise human oversight when appropriate**: Human oversight is an important safeguard when interacting with AI applications. While we continuously improve our AI applications, AI might still make mistakes. The outputs generated may be inaccurate, incomplete, biased, misaligned, or irrelevant to your intended goals. This could happen due to various reasons, such as ambiguity in the inputs or limitations of the underlying models. As such, users should review the responses generated by GitHub Copilot Chat and verify that they match their expectations and requirements. * **Be aware of the risk of overreliance**: <!-- Do not modify this text.--> Overreliance on AI happens when users accept incorrect or incomplete AI outputs, mainly because mistakes in AI outputs may be hard to detect. For the end-user, overreliance could result in decreased productivity, loss of trust, application abandonment, financial loss, psychological harm, physical harm, among others. (e.g. a doctor accepts an incorrect AI output). * **Exercise caution when designing agentic AI in sensitive domains**: <!-- Do not modify this text.--> Users should exercise caution when designing and/or deploying agentic AI applications in sensitive domains where agent actions are irreversible or highly consequential. Additional precautions should also be taken when creating autonomous agentic AI as described further in the [GitHub Terms](/en/site-policy/github-terms). * **Use GitHub Copilot Chat as a tool, not a replacement**: While GitHub Copilot Chat can be a powerful tool for generating code, it is important to use it as a tool rather than a replacement for human programming. Always review and test code generated by GitHub Copilot Chat to ensure it meets your requirements and is free of errors or security concerns. * **Keep prompts on topic**: GitHub Copilot Chat is intended to address coding-related queries. Limiting prompts to coding questions or tasks enhances the model's output quality. * **Use secure coding and code review practices**: Follow best practices for secure coding—such as avoiding hard-coded passwords or SQL injection vulnerabilities—and review all generated code. * **Be selective with context (Spaces)**: Adding only the most relevant files, repositories, and notes to a space helps Copilot stay focused. Overloading a space with unnecessary content can dilute response quality. * **Keep context updated (Spaces)**: As your project evolves, refresh the files, issues, or documentation in your space. Outdated context may cause Copilot to generate inaccurate or incomplete answers. * **Use instructions alongside sources (Spaces)**: Combining natural language instructions with curated sources helps Copilot better understand your intent. * **Anchor chat in a space (Spaces)**: Starting conversations from within a space ensures continuity and relevance, keeping responses aligned with the context you've set up. * **Review PR summaries before publishing (GitHub.com)**: Pull request summaries are intended to supplement—not replace—your own context about the changes. Always review and assess the accuracy of a generated summary before saving or publishing your pull request. * **Review commit messages before committing (GitHub.com and GitHub Desktop)**: Commit message generation is intended to supplement—not replace—your own descriptions of the changes. Always review and edit the suggested title and description before committing. In GitHub Desktop, selecting specific lines of code or files can improve accuracy. You can opt out of commit message generation via the Copilot [settings page](https://github.com/settings/copilot/features) on GitHub.com. * **Provide feedback**: If you encounter any issues or limitations, provide feedback through the thumbs up/down buttons below each chat response. The ability to provide feedback about pull request summaries is dependent on your enterprise settings. For more information, see [Managing policies and features for GitHub Copilot in your enterprise](/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-enterprise-policies). For commit message generation, you can share feedback via the [community discussion](https://github.com/orgs/community/discussions/categories/copilot-news-and-announcements) or by [opening an issue in the GitHub Desktop repository](https://github.com/desktop/desktop/issues). This helps improve the tool and address concerns. * **Stay up to date**: GitHub Copilot Chat is evolving. Stay current with updates, new security risks, and best practices. ## 11. Learn more about GitHub Copilot Chat For additional guidance on the responsible use of GitHub Copilot Chat, we recommend reviewing the following documentation: * [Asking GitHub Copilot questions in your IDE](/en/copilot/how-tos/copilot-in-your-ide/chat-with-copilot/chat-in-ide) * [Creating a pull request summary with GitHub Copilot](/en/enterprise-cloud@latest/copilot/how-tos/copilot-on-github/copilot-for-github-tasks/create-a-pr-summary) * [Asking GitHub Copilot questions in GitHub](/en/enterprise-cloud@latest/copilot/how-tos/copilot-on-github/chat-with-copilot/chat-in-github) * [Terminal Chat](https://learn.microsoft.com/windows/terminal/terminal-chat) * [GitHub Pre-release License Terms](/en/site-policy/github-terms/github-pre-release-license-terms) * [GitHub Terms for Additional Products and Features](/en/site-policy/github-terms/github-terms-for-additional-products-and-features#github-copilot) * [GitHub Copilot Trust Center](https://copilot.github.trust.page/) ### Learn more about responsible AI * [Microsoft AI principles](https://www.microsoft.com/en-us/ai/responsible-ai) * [Microsoft responsible AI resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources) * [Microsoft Azure Learning courses on responsible AI](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/)",
+    "stars": 7,
+    "language": "",
+    "updated": "2026-10-05",
+    "topics": [
+      "config",
+      "github-config"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "Chandukasireddy/Agent_Guardrails_Monitoring",
+    "url": "https://github.com/Chandukasireddy/Agent_Guardrails_Monitoring",
+    "description": "A hands-on CTF-style workshop: break AI guardrails, learn authorization and observability with NeMo Guardrails and Langfuse.",
+    "stars": 6,
+    "language": "JavaScript",
+    "updated": "2026-11-06",
+    "topics": [
+      "agent-security",
+      "ai-guardrails",
+      "ctf",
+      "fastapi",
+      "langfuse"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "mastepanoski/ce-ai",
+    "url": "https://github.com/mastepanoski/ce-ai",
+    "description": "Cross-host operational companion for Compound Engineering across AI coding agents. Fleet version governance, project adoption, agent guardrails, and advisory workflow observation.",
+    "stars": 6,
+    "language": "Rust",
+    "updated": "2026-11-14",
+    "topics": [
+      "agentic-workflow",
+      "ai-agents",
+      "ai-coding",
+      "ai-engineering",
+      "claude-code"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "mochrzlf/aegis-forge",
+    "url": "https://github.com/mochrzlf/aegis-forge",
+    "description": "Production-ready, security-first template for Web, Mobile & Trading systems — with AI agent guardrails, DevSecOps pipelines, and checklists built in. Apache-2.0.",
+    "stars": 6,
+    "language": "Python",
+    "updated": "2026-10-04",
+    "topics": [
+      "ai-agents",
+      "apache-2-0",
+      "boilerplate",
+      "devsecops",
+      "mobile"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "shivanagendrakore/agent-firewall",
+    "url": "https://github.com/shivanagendrakore/agent-firewall",
+    "description": "Deterministic firewall for AI coding agents: fixed rules, outside the model, check each tool call before it runs.",
+    "stars": 6,
+    "language": "TypeScript",
+    "updated": "2026-10-21",
+    "topics": [
+      "agent-security",
+      "ai-agents",
+      "ai-security",
+      "claude-code",
+      "codex"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "aatakansalar/yaml-opa-llm-guardrails",
+    "url": "https://github.com/aatakansalar/yaml-opa-llm-guardrails",
+    "description": "A YAML to OPA Rego compiler that enables defining LLM output guardrails using familiar YAML syntax and enforce them through Open Policy Agent (OPA) decision APIs.",
+    "stars": 6,
+    "language": "Python",
+    "updated": "2025-06-27",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "saranyan/llm_guardrail_testing",
+    "url": "https://github.com/saranyan/llm_guardrail_testing",
+    "description": "",
+    "stars": 6,
+    "language": "Python",
+    "updated": "2025-05-23",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "Jaycubic/toolboundary",
+    "url": "https://github.com/Jaycubic/toolboundary",
+    "description": "Local runtime security and policy enforcement for AI agents and LLM tool calls, with permissions, guardrails, rate limits, approvals, auditing, and an emergency kill switch.",
+    "stars": 6,
+    "language": "Python",
+    "updated": "2026-11-17",
+    "topics": [
+      "agent-guardrails",
+      "agent-security",
+      "ai-agent-security",
+      "ai-governance",
+      "ai-guardrails"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "sazid/bitcode",
+    "url": "https://github.com/sazid/bitcode",
+    "description": "An AI coding assistant - agentic loop, tool calls, guardrails, reminders, terminal TUI.",
+    "stars": 6,
+    "language": "Go",
+    "updated": "2026-05-19",
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "claude",
+      "go"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "kkrlstrm/agent-guard",
+    "url": "https://github.com/kkrlstrm/agent-guard",
+    "description": "Tool-call guardrails for Claude Code derived from cc-logger telemetry: nudge recoverable mistakes, block irreversible ones. The guard stage of callusguard; still works standalone.",
+    "stars": 6,
+    "language": "Python",
+    "updated": "2026-09-29",
+    "topics": [
+      "agent-governance",
+      "agent-harness",
+      "agent-safety",
+      "ai-agents",
+      "claude-code"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "williamw99/SafeGuard",
+    "url": "https://github.com/williamw99/SafeGuard",
+    "description": "[ECCV 2026] SafeGuard: A Multi-Agent Perception-Reasoning Framework for Social-Risk AI-Generated Video Detection",
+    "stars": 6,
+    "language": "",
+    "updated": "2026-07-02",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "Bl4ckk01/agent-guardrail",
+    "url": "https://github.com/Bl4ckk01/agent-guardrail",
+    "description": "Ultra-fast, zero-cost safety guardrail for Claude Code & OpenAI Codex. Deterministic & neural protection against destructive agent commands.",
+    "stars": 5,
+    "language": "Python",
+    "updated": "2026-11-15",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "lmy-1219/agent-guardrails",
+    "url": "https://github.com/lmy-1219/agent-guardrails",
+    "description": "AI工作流插件，包含Claude Code版（调用codex）、Claude Code独立版、Codex版。用于及时制止AI偷懒行为，提醒AI多思考一层、及时落盘。让AI窗口之间像人类部门协作一样沟通联调。",
+    "stars": 5,
+    "language": "Python",
+    "updated": "2026-08-21",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "kallolchakraborty/ABAP-guardian",
+    "url": "https://github.com/kallolchakraborty/ABAP-guardian",
+    "description": "Enterprise-grade SAP ABAP code review skill & AI agent guardrails enforcing Clean ABAP, ATC quality gates, security, performance, and 11-suite evaluation harness.",
+    "stars": 5,
+    "language": "Python",
+    "updated": "2026-08-04",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "use-ash/ash",
+    "url": "https://github.com/use-ash/ash",
+    "description": "ASH — Agent Safety Harness: how to build a production AI agent system with persistent memory, multi-model coordination, and safety guardrails",
+    "stars": 5,
+    "language": "Python",
+    "updated": "2026-04-02",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "onestardao/WFGY-Agent-Firewall",
+    "url": "https://github.com/onestardao/WFGY-Agent-Firewall",
+    "description": "WFGY-Agent-Firewall",
+    "stars": 5,
+    "language": "TypeScript",
+    "updated": "2026-04-06",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "SudeshRPatil20/MCP-MathMind-Intelligent-math-solver-powered-by-MCP",
+    "url": "https://github.com/SudeshRPatil20/MCP-MathMind-Intelligent-math-solver-powered-by-MCP",
+    "description": "MCP-MathMind – An AI-powered, human-in-the-loop math tutor built with MCP (Model Context Protocol) for tool integration, DSPy for feedback-driven prompt optimization, LangChain for agent orchestration, Groq and Gemini for fast and accurate reasoning, and FAISS for knowledge retrieval. Supports input/output guardrails, web search, and adaptive learn",
+    "stars": 5,
+    "language": "TypeScript",
+    "updated": "2025-08-22",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "R1ngZer0/LLM-Guardrails",
+    "url": "https://github.com/R1ngZer0/LLM-Guardrails",
+    "description": "",
+    "stars": 5,
+    "language": "CSS",
+    "updated": "2024-04-16",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "siddhant-0707/llm-guardrails",
+    "url": "https://github.com/siddhant-0707/llm-guardrails",
+    "description": "",
+    "stars": 5,
+    "language": "Python",
+    "updated": "2025-11-24",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "Carlosmarroquin20/llm-guardrail-proxy",
+    "url": "https://github.com/Carlosmarroquin20/llm-guardrail-proxy",
+    "description": "A lightweight, zero-cost Python proxy designed to intercept, audit, and sanitize developer prompts before they reach external LLM APIs. Implements real-time tokenomics, FinOps cost controls, and automated PII/secret scanning for secure AI engineering.",
+    "stars": 5,
+    "language": "Python",
+    "updated": "2026-11-03",
+    "topics": [
+      "ai-security",
+      "anthropic",
+      "devsecops",
+      "fastapi",
+      "finops"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "MGASALUCAS/askari_llm",
+    "url": "https://github.com/MGASALUCAS/askari_llm",
+    "description": "Open Source Version of Askari LLM , Guardrails implementation for Large Language Model",
+    "stars": 5,
+    "language": "Python",
+    "updated": "2024-09-05",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "kkrlstrm/callusguard",
+    "url": "https://github.com/kkrlstrm/callusguard",
+    "description": "Guardrails for Claude Code and Codex written from telemetry: record tool calls, derive rules from recurring failures, enforce at the tool boundary, verify scope, prune rules that stop firing. On PyPI as callusguard. The wider learning loop continues in runtune.",
+    "stars": 5,
+    "language": "Python",
+    "updated": "2026-09-29",
+    "topics": [
+      "agent-governance",
+      "agent-harness",
+      "agent-safety",
+      "ai-agents",
+      "claude-code"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "dungnotnull/craft-village-heritage-tourism-agent-skill",
+    "url": "https://github.com/dungnotnull/craft-village-heritage-tourism-agent-skill",
+    "description": "🏺 Multi-agent AI framework for sustainable craft heritage & creative tourism planning. Balances artisan livelihood preservation, UNESCO Intangible Cultural Heritage safeguards, and eco-tourism infrastructure using executable Python calculation tools and auto-fixing quality gates. 🏮🔥",
+    "stars": 5,
+    "language": "Python",
+    "updated": "2026-07-30",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "Lasyasriyerramsetty/CrewHire",
+    "url": "https://github.com/Lasyasriyerramsetty/CrewHire",
+    "description": "An elegant multi-agent AI recruitment pipeline (CrewAI) that screens, scores, audits and schedules candidates with bias, hallucination and prompt-injection safeguards.",
+    "stars": 5,
+    "language": "Python",
+    "updated": "2026-07-15",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "dkneeland/agentic-guardrails",
+    "url": "https://github.com/dkneeland/agentic-guardrails",
+    "description": "Modular markdown workflow templates to keep AI coding agents from shipping sloppy code. Catch defensive over-engineering, redundant logic, and \"AI slop\" before they hit your commit history. Works with Opencode, Cursor, Claude Code, Aider, and any agent. Includes hardening, consolidation, slop-removal, and quality-gated commit workflows.",
+    "stars": 4,
+    "language": "",
+    "updated": "2026-04-12",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "DennisFaucher/hermes-agent-guardrails",
+    "url": "https://github.com/DennisFaucher/hermes-agent-guardrails",
+    "description": "",
+    "stars": 4,
+    "language": "Python",
+    "updated": "2026-05-13",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "DzKriMo/Aegis",
+    "url": "https://github.com/DzKriMo/Aegis",
+    "description": "AI Agents Guardrail",
+    "stars": 4,
+    "language": "Python",
+    "updated": "2026-03-26",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "architsharm/agentfox",
+    "url": "https://github.com/architsharm/agentfox",
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants, and a tamper-evident audit trail mapped to compliance frameworks.",
+    "stars": 4,
+    "language": "Python",
+    "updated": "2026-11-16",
+    "topics": [
+      "ai-agents",
+      "ai-governance",
+      "ai-safety",
+      "ai-security",
+      "apache2"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "shouryasingh2311/bouncer-on-board",
+    "url": "https://github.com/shouryasingh2311/bouncer-on-board",
+    "description": "Zero-Trust IDE Agent Firewall & Pre-Deploy Security Gatekeeper",
+    "stars": 4,
+    "language": "Python",
+    "updated": "2026-10-25",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "pipelab-org/pipelock-rules",
+    "url": "https://github.com/pipelab-org/pipelock-rules",
+    "description": "Official community detection rules for Pipelock - the open-source agent firewall",
+    "stars": 4,
+    "language": "Python",
+    "updated": "2026-11-17",
+    "topics": [
+      "agent-security",
+      "ai-agents",
+      "ai-security",
+      "detection-rules",
+      "dlp"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "limithit/llm_router_guard",
+    "url": "https://github.com/limithit/llm_router_guard",
+    "description": "A self-hosted LLM gateway with built-in input/output guardrails — multi-protocol routing, quotas, audit logging, and TOTP-MFA admin console",
+    "stars": 4,
+    "language": "Go",
+    "updated": "2026-09-24",
+    "topics": [
+      "guardrails",
+      "guardrails-ai",
+      "llm-gateway",
+      "llm-guard",
+      "llm-security"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "shivadharmi/AI_DS_Technical_Eval",
+    "url": "https://github.com/shivadharmi/AI_DS_Technical_Eval",
+    "description": "EV fleet analytics: a next-day revenue prediction pipeline (Ridge / Random Forest / XGBoost over leakage-safe lag features) plus a LangChain SQL-agent chat assistant with input/output guardrails. Walkthrough notebooks, and a production-readiness design doc.",
+    "stars": 4,
+    "language": "Jupyter Notebook",
+    "updated": "2026-08-21",
+    "topics": [
+      "data-science",
+      "genai",
+      "guardrails",
+      "jupyter-notebook",
+      "langchain"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "gabrielchua/llm-guardrails-workshop",
+    "url": "https://github.com/gabrielchua/llm-guardrails-workshop",
+    "description": "",
+    "stars": 4,
+    "language": "Python",
+    "updated": "2024-11-20",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "vli31/llm-guardrail-sensitivity",
+    "url": "https://github.com/vli31/llm-guardrail-sensitivity",
+    "description": "GPT Guardrail Sensitivity in Context",
+    "stars": 4,
+    "language": "Jupyter Notebook",
+    "updated": "2024-07-17",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "atharvakanchan25/LLM-Guardrails-Gateway",
+    "url": "https://github.com/atharvakanchan25/LLM-Guardrails-Gateway",
+    "description": "",
+    "stars": 4,
+    "language": "",
+    "updated": "2026-06-26",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "CentreSecuriteIA/BELLS-O",
+    "url": "https://github.com/CentreSecuriteIA/BELLS-O",
+    "description": "A framework to assess operational cost of LLM guardrails. https://centresecuriteia.github.io/BELLS-O/",
+    "stars": 4,
+    "language": "Python",
+    "updated": "2026-07-25",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "InnerWarden/inner-warden",
+    "url": "https://github.com/InnerWarden/inner-warden",
+    "description": "Open-source runtime guardrail for AI agents: screens shell commands and MCP/tool calls before they run (allow/review/deny). Cross-OS, Apache-2.0.",
+    "stars": 4,
+    "language": "Rust",
+    "updated": "2026-11-16",
+    "topics": [
+      "ai-agents",
+      "ai-security",
+      "claude-code",
+      "devsecops",
+      "guardrails"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "arijeetganguli/Agentra",
+    "url": "https://github.com/arijeetganguli/Agentra",
+    "description": "Secure AI coding governance, runtime guardrails, token optimization, and enterprise DevSecOps orchestration for coding agents.",
+    "stars": 4,
+    "language": "Python",
+    "updated": "2026-06-12",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "cirbuk/safeguards",
+    "url": "https://github.com/cirbuk/safeguards",
+    "description": "Agentic Safety Framework",
+    "stars": 4,
+    "language": "Python",
+    "updated": "2025-04-23",
+    "topics": [
+      "agents",
+      "budgets",
+      "guardrails",
+      "llm",
+      "python"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "VamsiSudhakaran1/release-gate",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate",
+    "description": "🚪 Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity boundaries, action budgets. CLI tool with YAML config, JSON/text output, CI/CD integration.",
+    "stars": 4,
+    "language": "Python",
+    "updated": "2026-10-12",
+    "topics": [
+      "agent-governance",
+      "ai-agents",
+      "ai-agents-framework",
+      "ai-governance",
+      "ai-policy"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "cmu-soda/ProvenanceGuard",
+    "url": "https://github.com/cmu-soda/ProvenanceGuard",
+    "description": "[ASE 2026] ProvenanceGuard is a provenance-based runtime guardrail for LLM agent safety that detects misaligned tool calls before execution and keeps agent actions aligned with user intent.",
+    "stars": 3,
+    "language": "Python",
+    "updated": "2026-08-08",
+    "topics": [
+      "agent-safety",
+      "ai-agents",
+      "large-language-models",
+      "llm-agents",
+      "llm-safety-and-alignment"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "DSCmatter/Agentic_Firewall",
+    "url": "https://github.com/DSCmatter/Agentic_Firewall",
+    "description": "Agentic Firewall sits between an AI agent or MCP client and an MCP server. It can enforce runtime policies and automatically test the server's tool-use attack surface with 17 OWASP ASI scenarios. It runs locally and sends no telemetry.",
+    "stars": 3,
+    "language": "Python",
+    "updated": "2026-10-28",
+    "topics": [
+      "agentic-ai",
+      "claude-desktop",
+      "instructor",
+      "mcp",
+      "pydantic"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "hakomicat/Agent-Firewall",
+    "url": "https://github.com/hakomicat/Agent-Firewall",
+    "description": "",
+    "stars": 3,
+    "language": "Go",
+    "updated": "2026-05-11",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "jingwora/LLM-Guardrails",
+    "url": "https://github.com/jingwora/LLM-Guardrails",
+    "description": "LLM-Guardrails",
+    "stars": 3,
+    "language": "",
+    "updated": "2024-06-06",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "royapakzad/multilingual_llm_guardrails",
+    "url": "https://github.com/royapakzad/multilingual_llm_guardrails",
+    "description": "Evaluating Multilingual Discrepancies in LLM Guardrails",
+    "stars": 3,
+    "language": "Python",
+    "updated": "2026-05-11",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "KryptosAI/mcp-seatbelt",
+    "url": "https://github.com/KryptosAI/mcp-seatbelt",
+    "description": "Runtime guardrails for AI agent MCP tools. Blocks dangerous tool calls at runtime with a default-deny policy proxy.",
+    "stars": 3,
+    "language": "TypeScript",
+    "updated": "2026-08-04",
+    "topics": [
+      "agent-security",
+      "ai-agent",
+      "ai-safety",
+      "guardrails",
+      "mcp"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "KeelStack-me/guard",
+    "url": "https://github.com/KeelStack-me/guard",
+    "description": "Runtime guardrails for TypeScript AI agents. Prevents duplicate tool calls, enforces per-user cost budgets, and gates irreversible actions. MIT.",
+    "stars": 3,
+    "language": "TypeScript",
+    "updated": "2026-08-07",
+    "topics": [
+      "agent-authorization",
+      "agent-safety",
+      "agentic-ai",
+      "ai-agents",
+      "approval-workflow"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "awesome-pro/guardloop",
+    "url": "https://github.com/awesome-pro/guardloop",
+    "description": "Production runtime guardrails for AI agents: budget caps, circuit breakers, and OpenTelemetry traces.",
+    "stars": 3,
+    "language": "Python",
+    "updated": "2026-09-23",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-safety",
+      "anthropic",
+      "circuit-breaker"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "repoforge-dev/authority-layer",
+    "url": "https://github.com/repoforge-dev/authority-layer",
+    "description": "Runtime guardrails for AI agents that enforce token budgets, loop limits, and tool rate limits locally.",
+    "stars": 3,
+    "language": "TypeScript",
+    "updated": "2026-03-11",
+    "topics": [
+      "agent-guardrails",
+      "agent-runtime",
+      "agent-security",
+      "agentic-ai",
+      "ai-agents"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "PathlayerLabs/pathlayer",
+    "url": "https://github.com/PathlayerLabs/pathlayer",
+    "description": "Runtime guardrail layer for AI agents: detect loops, retries, cost explosions and lack of progress, and intervene during execution.",
+    "stars": 3,
+    "language": "Python",
+    "updated": "2026-11-08",
+    "topics": [
+      "ai-agents",
+      "circuit-breaker",
+      "guardrails",
+      "langgraph",
+      "llm"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "liuhe37186/agent-harness-health-check",
+    "url": "https://github.com/liuhe37186/agent-harness-health-check",
+    "description": "对用户的 Agent 系统做 Harness 体检，检查 workflow 与 agent 边界、执行回路、工具契约、权限审批、状态恢复、上下文治理、trace/replay、HITL、eval 与发布门禁是否达到可生产落地水平，并输出带证据的整改报告。只要用户提到“给我的 Agent 做体检”“审计 Agent 系统”“检查 harness / runtime / guardrails / eval 是否健全”“帮我找出为什么 Agent 只能 demo 不能上线”“生成 Agent 架构整改报告”“生成 Agent 体检 HTML 评测报告”“汇总多条 eval / formal grades / benchmark 生成评测页面”，都应优先使用本技能。",
+    "stars": 3,
+    "language": "Python",
+    "updated": "2026-06-01",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "safetycard/safetycard",
+    "url": "https://github.com/safetycard/safetycard",
+    "description": "Agent plugin that scores internal safeguards of MCP servers and AI agents and suggests the safest setup for them - built on OWASP Top 10 for Agentic Applications.",
+    "stars": 3,
+    "language": "Python",
+    "updated": "2026-10-18",
+    "topics": [
+      "agent-security",
+      "ai-security",
+      "claude-code",
+      "llm-security",
+      "owasp-genai"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "SpaceMatterDeep/AGPI-Constitution-And-Demos",
+    "url": "https://github.com/SpaceMatterDeep/AGPI-Constitution-And-Demos",
+    "description": "Prototype constitutions, attestation loops, and demos for multi-agent systems with value drift checks, protected-entity safeguards, and interaction alignment.",
+    "stars": 3,
+    "language": "Python",
+    "updated": "2026-03-24",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "full_name": "JeremyZ-ctrl/NeoArcClaw",
+    "url": "https://github.com/JeremyZ-ctrl/NeoArcClaw",
+    "description": "An experimental multi-agent coding assistant for local workspaces, featuring LangGraph orchestration, verifiable workflows, workspace safeguards, and local knowledge-base retrieval.",
+    "stars": 3,
+    "language": "Python",
+    "updated": "2026-07-22",
+    "topics": [],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  }
+]
